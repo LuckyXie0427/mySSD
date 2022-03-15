@@ -19,6 +19,8 @@ A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detecto
 &nbsp;
 &nbsp;
 
+![](https://github.com/LuckyXie0427/myGitTest/blob/master/%E5%8A%A8%E7%94%BB%20(0).gif)
+
 ## Installation
 - Install [PyTorch](http://pytorch.org/) by selecting your environment on the website and running the appropriate command.
 - Clone this repository.
